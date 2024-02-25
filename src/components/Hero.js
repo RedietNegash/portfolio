@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-import Image from "../assets/avator_files/pp7.jpg";
+import Image from "../assets/pp7.jpg";
 
 const Hero = () => {
   const imageStyle = {
