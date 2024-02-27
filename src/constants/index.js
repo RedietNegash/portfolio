@@ -15,7 +15,7 @@ import {
   git,
   figma,
   jobsearchapp,
-  jobit,
+  snapgramlogin,
   tripguide,
 } from "../assets";
 
@@ -111,7 +111,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "BootCamp trainer",
+    title: "BootCamp trainer 8 month",
     company_name: "Evangadi INC",
     iconBg: "#E6DEDD",
     icon: "https://www.evangadi.com/themes/humans/assets/images/favicon.png",
@@ -189,25 +189,26 @@ const projects = [
     source_code_link: "https://github.com/RedietNegash/Job_Search_App",
   },
   {
-    name: "Job IT",
+    name: "snapgram",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A social media application which contains a stunning authentication system, a home page for exploring posts shared by others with top creators featured on the right the ablity to like and save posts accessible through a separate dedicated page.",
     tags: [
       {
-        name: "react",
+        name: "react context-api",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "React Query",
         color: "green-text-gradient",
       },
+
       {
-        name: "scss",
+        name: "Tailwind css",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: snapgramlogin,
+    source_code_link: "https://github.com/RedietNegash/snapgram",
   },
   {
     name: "Trip Guide",

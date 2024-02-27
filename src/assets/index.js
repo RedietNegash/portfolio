@@ -28,6 +28,7 @@ import tesla from "./company/tesla.png";
 import jobsearchapp from "./jobsearchapp.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import snapgramlogin from "./snapgramlogin.jpg";
 
 export {
   backend,
@@ -56,5 +57,6 @@ export {
   tesla,
   jobsearchapp,
   jobit,
+  snapgramlogin,
   tripguide,
 };
