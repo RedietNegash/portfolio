@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c5380fe7.css",
-    "main.js": "/portfolio/static/js/main.dbeb31c9.js",
+    "main.css": "/portfolio/static/css/main.3c9f242f.css",
+    "main.js": "/portfolio/static/js/main.b6d71128.js",
     "static/js/453.70faa439.chunk.js": "/portfolio/static/js/453.70faa439.chunk.js",
     "static/media/tripguide.png": "/portfolio/static/media/tripguide.991986c795ea140ba063.png",
     "static/media/herobg.png": "/portfolio/static/media/herobg.ad33add2430e34307c33.png",
     "static/media/jobsearchapp.png": "/portfolio/static/media/jobsearchapp.ff722657ec2f04744e39.png",
     "static/media/jobit.png": "/portfolio/static/media/jobit.755da7149642fd049273.png",
+    "static/media/snapgramlogin.jpg": "/portfolio/static/media/snapgramlogin.00aa0f7cf6a66d08def5.jpg",
     "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/pp7.jpg": "/portfolio/static/media/pp7.316ed3b4dbbe133e4caf.jpg",
     "static/media/backend.png": "/portfolio/static/media/backend.08c8d93b8142c41a9e63.png",
@@ -18,12 +19,12 @@
     "static/media/menu.svg": "/portfolio/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/portfolio/index.html",
     "static/media/threejs.svg": "/portfolio/static/media/threejs.34d1dab4caddf9c51437e9bafd282582.svg",
-    "main.c5380fe7.css.map": "/portfolio/static/css/main.c5380fe7.css.map",
-    "main.dbeb31c9.js.map": "/portfolio/static/js/main.dbeb31c9.js.map",
+    "main.3c9f242f.css.map": "/portfolio/static/css/main.3c9f242f.css.map",
+    "main.b6d71128.js.map": "/portfolio/static/js/main.b6d71128.js.map",
     "453.70faa439.chunk.js.map": "/portfolio/static/js/453.70faa439.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5380fe7.css",
-    "static/js/main.dbeb31c9.js"
+    "static/css/main.3c9f242f.css",
+    "static/js/main.b6d71128.js"
   ]
 }
